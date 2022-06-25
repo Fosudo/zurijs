@@ -1,0 +1,1 @@
+alert(" My name is David, a Nigerian with height of 5.2")
